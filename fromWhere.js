@@ -9,5 +9,3 @@ return "Cape Town";
 return "Some other place!"
 }
 }
-// var whereFrom =fromWhere('CJ')
-// console.log(whereFrom);
